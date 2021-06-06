@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="andromo.ojob.MainActivity">
+    <item
+        android:id="@+id/ja"
+        android:orderInCategory="100"
+        android:title="સાપ્તાહિક નોકરી સમાચાર"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rate"
+        android:orderInCategory="100"
+        android:title="રેટિંગ એપ્લિકેશન"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/prv"
+        android:orderInCategory="100"
+        android:title="Privacy"
+        app:showAsAction="never" />
+</menu>

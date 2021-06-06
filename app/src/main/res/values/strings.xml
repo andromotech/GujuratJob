@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GujuratJob</string>
+    <string name="not_admin_name">guju job notification</string>
+    <string name="not_admin_description">guju job admin notification</string>
+    <string name="ad_view"></string>
+</resources>
